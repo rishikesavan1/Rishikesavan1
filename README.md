@@ -1,4 +1,4 @@
-## 💫 About Me:
+## 💫 About Me
 ### Hi there 👋, I'm Rishikesavan A<br>
 🚀 About Me
 - I'm a passionate developer who loves solving problems, building real-world projects, and continuously learning new technologies.
